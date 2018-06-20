@@ -1,0 +1,23 @@
+.fila{
+  
+  overflow: auto;
+  white-space: nowrap;
+}
+.Media{
+  cursor: pointer;
+  background: #0647D4;
+  margin-right: 15px;
+  display: inline-block;
+  width:260px;
+  vertical-align: top;
+  padding: 10px;
+
+}
+
+.Media-cover{
+  background: #33ABEC;
+  text-align: center;
+  padding: 3px;
+}
+.Media-title{}
+.Media-author{}
